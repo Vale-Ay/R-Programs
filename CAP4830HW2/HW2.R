@@ -1,11 +1,5 @@
-# NAME: Valeria Aybar
-# PANTHER ID: 6181336
-# CERTIFICATION: I understand FIU’s academic policies, and I certify that this
-# work is my own and that none of it is the work of any other person.
-
 #=============================================================================
 # PROGRAMMER: Valeria Aybar
-# PANTHER ID: 6181336
 #
 # CLASS: CAP4830
 # SECTION: RVC 1231
